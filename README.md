@@ -2,5 +2,5 @@
 
 I'm just an enthusiast who likes to learn new things in my free time.
 ---
-- 🛠️ I’m currently working on FluGenPass and am doing my best to keep it up to date and maintain it!
-- 📝 I’m currently learning: JavaScript, C# and CSS3
+- 🛠️ I'm currently working on various projects, including FluGenPass, and I am doing everything I can to continue supporting and updating them
+- 🤔 Maybe other projects will appear here soon...
